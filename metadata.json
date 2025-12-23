@@ -1,0 +1,7 @@
+{
+  "name": "GENERATIVE EDITION LAB AI Marketing",
+  "description": "Professional marketing intelligence platform for content editing and high-fidelity image generation using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
